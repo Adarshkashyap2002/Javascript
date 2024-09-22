@@ -5,3 +5,5 @@ accountCity = "madhubani"
 let accountstate 
 
 console.log(accountstate)
+
+console.table([accountEmail,accountId,accountpassword,accountCity])
